@@ -1,4 +1,3 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Kartik Saini</h1>
 <h3 align="center">I’m a tech enthusiast currently pursuing a Bachelor’s in Computer Science at NIT Jalandhar. I have a strong aptitude for problem-solving and enjoy working with Data Structures and Algorithms to tackle challenging problems. Alongside, I’m building my skills in web development, creating functional and user-friendly applications. With a focus on continuous learning and practical application, I’m striving to grow as a developer and make a real-world impact through technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
